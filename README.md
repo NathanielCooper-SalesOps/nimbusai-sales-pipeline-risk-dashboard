@@ -9,7 +9,7 @@ View the Tableau Public dashboard here:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 ## The Scenario
 
 It is Friday afternoon. The week is basically limping toward the finish line. People are mentally halfway to the weekend, Slack notifications are being ignored with Olympic-level discipline, and then the VP of Sales drops a message:
@@ -60,7 +60,7 @@ I focused on formula-driven results from the dataset rather than manual assumpti
 
 ## Formula Logic & Data Prep
 
-![Excel formula logic and data prep](Excel-Formula-Logic.png)
+![Excel formula logic and data prep](excel-formula-logic.png.png)
 
 ## Dashboard Sections
 
@@ -86,7 +86,7 @@ This is the “start here” section.
 
 Instead of telling a sales manager, “Go clean up your pipeline,” this table points to the specific deals that need review.
 
-![Deal Review Action Table](Deal-Action-Review.png)
+![Deal Review Action Table](deal-review-action-table.png.png)
 
 ### At-Risk Pipeline by Rep
 
@@ -100,7 +100,7 @@ This view shows where risk is building in the sales process.
 
 If risk is concentrated in early stages, that could point to qualification issues. If it is concentrated in later stages, that could point to close date slippage, weak next steps, or forecast hygiene problems.
 
-![At-risk pipeline by rep](Risk-Pipeline-by-Rep.png)
+![At-risk pipeline by rep](at-risk-pipeline-by-rep.png.png)
 
 ### At-Risk Opportunities by Forecast Category
 
