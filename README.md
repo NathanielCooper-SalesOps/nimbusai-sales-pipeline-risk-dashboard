@@ -60,7 +60,7 @@ I focused on formula-driven results from the dataset rather than manual assumpti
 
 ## Formula Logic & Data Prep
 
-![Excel formula logic and data prep](excel-formula-logic.png.png)
+![Excel formula logic and data prep](Excel-Formula-Logic.png.png)
 
 ## Dashboard Sections
 
@@ -86,7 +86,7 @@ This is the “start here” section.
 
 Instead of telling a sales manager, “Go clean up your pipeline,” this table points to the specific deals that need review.
 
-![Deal Review Action Table](deal-review-action-table.png.png)
+![Deal Review Action Table](Deal-Action-Review.png.png)
 
 ### At-Risk Pipeline by Rep
 
@@ -100,7 +100,7 @@ This view shows where risk is building in the sales process.
 
 If risk is concentrated in early stages, that could point to qualification issues. If it is concentrated in later stages, that could point to close date slippage, weak next steps, or forecast hygiene problems.
 
-![At-risk pipeline by rep](at-risk-pipeline-by-rep.png.png)
+![At-risk pipeline by rep](Risk-Pipeline-by-Rep.png.png)
 
 ### At-Risk Opportunities by Forecast Category
 
