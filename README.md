@@ -7,6 +7,9 @@ A Sales Ops case study built in Tableau to identify at-risk pipeline, stale acti
 View the Tableau Public dashboard here:
 **[NimbusAI Sales Pipeline Risk Dashboard]((https://public.tableau.com/app/profile/nathaniel.cooper2501/viz/NimbusAISalesPipelineRiskDashboard/NCPipelineRiskDashboard)
 
+## Dashboard Preview
+
+![NimbusAI Sales Pipeline Risk Dashboard](dashboard-preview.png)
 ## The Scenario
 
 It is Friday afternoon. The week is basically limping toward the finish line. People are mentally halfway to the weekend, Slack notifications are being ignored with Olympic-level discipline, and then the VP of Sales drops a message:
@@ -55,6 +58,10 @@ I built the analysis around pipeline risk signals that would matter in a real Sa
 
 I focused on formula-driven results from the dataset rather than manual assumptions. In a real-world Sales Ops setting, several of these items would be flagged as CRM hygiene issues that should be validated before leadership uses the numbers for a final forecast.
 
+## Formula Logic & Data Prep
+
+![Excel formula logic and data prep](Excel-Formula-Logic.png)
+
 ## Dashboard Sections
 
 ### Key Takeaway
@@ -79,6 +86,8 @@ This is the “start here” section.
 
 Instead of telling a sales manager, “Go clean up your pipeline,” this table points to the specific deals that need review.
 
+![Deal Review Action Table](Deal-Action-Review.png)
+
 ### At-Risk Pipeline by Rep
 
 This view shows where the largest dollar exposure sits by rep.
@@ -90,6 +99,8 @@ A rep may not have the most risky deals by count, but they may own the highest d
 This view shows where risk is building in the sales process.
 
 If risk is concentrated in early stages, that could point to qualification issues. If it is concentrated in later stages, that could point to close date slippage, weak next steps, or forecast hygiene problems.
+
+![At-risk pipeline by rep](Risk-Pipeline-by-Rep.png)
 
 ### At-Risk Opportunities by Forecast Category
 
