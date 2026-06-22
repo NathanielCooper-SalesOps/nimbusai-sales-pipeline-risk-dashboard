@@ -90,21 +90,23 @@ Instead of telling a sales manager, “Go clean up your pipeline,” this table 
 ![Deal Review Action Table](Deal-Action-Review.png.png)
 
 ### At-Risk Pipeline by Rep
-![At-Risk Pipeline by Rep](at-risk-pipeline-by-rep.png)
+![At-Risk Pipeline by Rep](at-risk-by-rep.png)
 
 This view shows where the largest dollar exposure sits by rep.
 
 A rep may not have the most risky deals by count, but they may own the highest dollar amount of risk. That matters when leadership is trying to protect the forecast.
 
 ### At-Risk Opportunities by Stage
+![At-Risk Opportunities by Stage](at-risk-by-stage.png)
 
 This view shows where risk is building in the sales process.
 
 If risk is concentrated in early stages, that could point to qualification issues. If it is concentrated in later stages, that could point to close date slippage, weak next steps, or forecast hygiene problems.
 
-![At-risk pipeline by rep](Risk-Pipeline-by-Rep.png.png)
+
 
 ### At-Risk Opportunities by Forecast Category
+![At-Risk Opportunities by Forecast Category](at-risk-by-forecast.png)
 
 This view shows which forecast categories may need cleanup before the forecast call.
 
