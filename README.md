@@ -1,6 +1,6 @@
 # NimbusAI Sales Pipeline Risk Dashboard
 
-A Sales Ops case study built in Tableau to identify at-risk pipeline, stale activity, forecast cleanup needs, and where leadership should focus before the Monday forecast call.
+A Sales Ops workflow built in Tableau to identify at-risk pipeline, stale activity, forecast cleanup needs, and where leadership should focus before the Monday forecast call.
 
 ## Live Dashboard
 
