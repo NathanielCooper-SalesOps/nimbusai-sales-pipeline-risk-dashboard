@@ -89,6 +89,7 @@ Instead of telling a sales manager, “Go clean up your pipeline,” this table 
 ![Deal Review Action Table](Deal-Action-Review.png.png)
 
 ### At-Risk Pipeline by Rep
+![At-Risk Pipeline by Rep](at-risk-pipeline-by-rep.png)
 
 This view shows where the largest dollar exposure sits by rep.
 
