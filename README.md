@@ -4,8 +4,7 @@ A Sales Ops workflow built in Tableau to identify at-risk pipeline, stale activi
 
 ## Live Dashboard
 
-View the Tableau Public dashboard here:
-**[NimbusAI Sales Pipeline Risk Dashboard]((https://public.tableau.com/app/profile/nathaniel.cooper2501/viz/NimbusAISalesPipelineRiskDashboard/NCPipelineRiskDashboard)
+View the Tableau Public dashboard here: **[NimbusAI Sales Pipeline Risk Dashboard](https://public.tableau.com/app/profile/nathaniel.cooper2501/viz/NimbusAISalesPipelineRiskDashboard/NCPipelineRiskDashboard)**
 
 ## Dashboard Preview
 
