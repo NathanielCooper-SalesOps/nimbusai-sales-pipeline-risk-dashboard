@@ -9,7 +9,8 @@ View the Tableau Public dashboard here:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png.png)
+![Dashboard Preview](dash-preview.png)
+
 ## The Scenario
 
 It is Friday afternoon. The week is basically limping toward the finish line. People are mentally halfway to the weekend, Slack notifications are being ignored with Olympic-level discipline, and then the VP of Sales drops a message:
