@@ -66,6 +66,7 @@ I focused on formula-driven results from the dataset rather than manual assumpti
 ## Dashboard Sections
 
 ### Key Takeaway
+![Key Takeaway](key-takeaway.png)
 
 The dashboard starts with a plain-English summary of what the pipeline review found and where sales leadership should focus.
 
@@ -80,14 +81,14 @@ The dashboard highlights:
 * Forecast cleanup needs
 
 ### Deal Review Action Table
-
+![Deal Review Action Table](Ddeal-review-action.png)
 This table shows the actual deals that need attention. It includes the rep, account, opportunity details, stage, forecast category, risk type, amount, and recommended action.
 
 This is the “start here” section.
 
 Instead of telling a sales manager, “Go clean up your pipeline,” this table points to the specific deals that need review.
 
-![Deal Review Action Table](Deal-Action-Review.png.png)
+
 
 ### At-Risk Pipeline by Rep
 ![At-Risk Pipeline by Rep](at-risk-by-rep.png)
